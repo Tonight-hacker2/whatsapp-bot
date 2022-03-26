@@ -55,18 +55,18 @@
         },
         "WARN_COUNT": {
             "description": "Maximum no of warns",
-            "required": false,
+            "required": true,
             "value": "3"
         },
         "WARN_MSG": {
             "description": "Message send while kicking.",
-            "required": false,
+            "required": true,
             "value": "OK bie"
         },
         "REMOVEBG_KEY": {
             "description": "key from remove.bg",
-            "required": false,
-            "value": "null"
+            "required": true,
+            "value": "true"
         },
         "LANGUAGE": {
             "description": "Enter bot language, example EN for English, ID for Bahasa Indonesia, TR for Turkish",
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "*_~..🍒⃞⃝ ഒറ്റ൭പ്പട്ടവ൭ന്റ ല᭄പ᭄⃝🎀..🥺🍃~_*"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
